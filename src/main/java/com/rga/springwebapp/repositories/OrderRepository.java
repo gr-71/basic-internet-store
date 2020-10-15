@@ -1,4 +1,4 @@
-package springwebapp.repositories;
+package com.rga.springwebapp.repositories;
 
 
 import com.rga.springwebapp.domain.Order;

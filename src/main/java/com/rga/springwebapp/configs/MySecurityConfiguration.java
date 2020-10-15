@@ -1,4 +1,4 @@
-package springwebapp.configs;
+package com.rga.springwebapp.configs;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

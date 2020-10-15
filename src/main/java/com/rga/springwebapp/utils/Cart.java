@@ -1,4 +1,4 @@
-package springwebapp.utils;
+package com.rga.springwebapp.utils;
 
 import com.rga.springwebapp.domain.OrderPosition;
 import com.rga.springwebapp.domain.Product;

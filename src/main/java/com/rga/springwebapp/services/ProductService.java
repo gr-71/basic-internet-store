@@ -1,4 +1,4 @@
-package springwebapp.services;
+package com.rga.springwebapp.services;
 
 import com.rga.springwebapp.domain.Product;
 import com.rga.springwebapp.repositories.ProductRepository;

@@ -1,4 +1,4 @@
-package springwebapp.services;
+package com.rga.springwebapp.services;
 
 public class EntityNotFoundResponse {
     private int status;

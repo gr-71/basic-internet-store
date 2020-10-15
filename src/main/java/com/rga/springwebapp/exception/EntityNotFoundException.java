@@ -1,4 +1,4 @@
-package springwebapp.exception;
+package com.rga.springwebapp.exception;
 
 public class EntityNotFoundException extends RuntimeException {
 

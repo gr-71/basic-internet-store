@@ -1,4 +1,4 @@
-package springwebapp.services;
+package com.rga.springwebapp.services;
 
 import com.rga.springwebapp.domain.Order;
 import com.rga.springwebapp.domain.OrderPosition;

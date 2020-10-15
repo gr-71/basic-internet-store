@@ -72,6 +72,13 @@
             <version>3.0.3.RELEASE</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjrt -->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjrt</artifactId>
+            <version>1.9.5</version>
+        </dependency>
+
     </dependencies>
 
     <build>

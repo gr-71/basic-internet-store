@@ -1,4 +1,4 @@
-package springwebapp.controllers;
+package com.rga.springwebapp.controllers;
 
 import com.rga.springwebapp.dao.ProductDao;
 import com.rga.springwebapp.domain.Product;

@@ -1,4 +1,4 @@
-package springwebapp.dao;
+package com.rga.springwebapp.dao;
 
 import com.rga.springwebapp.domain.Product;
 import org.springframework.data.jpa.repository.JpaRepository;

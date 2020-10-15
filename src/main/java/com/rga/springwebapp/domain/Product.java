@@ -1,4 +1,4 @@
-package springwebapp.domain;
+package com.rga.springwebapp.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
